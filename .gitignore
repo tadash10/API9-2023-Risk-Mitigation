@@ -1,0 +1,15 @@
+# Python specific
+*.pyc
+*.pyo
+__pycache__/
+dist/
+build/
+*.egg-info/
+
+# IDE specific
+.idea/
+.vscode/
+
+# System/OS specific
+.DS_Store
+Thumbs.db
